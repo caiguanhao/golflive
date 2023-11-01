@@ -1,0 +1,3 @@
+/golflive
+/*.json
+!cities.json
