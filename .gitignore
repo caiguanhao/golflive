@@ -1,3 +1,4 @@
 /golflive
 /*.json
 !cities.json
+!golf-courses.json
